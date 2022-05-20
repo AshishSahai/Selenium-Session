@@ -29,8 +29,7 @@ public class WebDriverBasics {
 		}
 		else {
 			System.out.println("Incorrect");
-		}
-		
+		}	
 		System.out.println(driver.getTitle()); //get title of page
 		System.out.println(driver.getCurrentUrl()); //get curent url
 		//System.out.println(driver.getPageSource());
